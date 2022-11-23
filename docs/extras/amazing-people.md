@@ -19,4 +19,5 @@ Amazing People
 * [Michelle Noorali](https://www.twitter.com/michellenoorali), Software Engineer at Microsoft
 * [Paris Pittman](https://www.twitter.com/ParisInBmore), Developer Relations Manager - Kubernetes at Google
 * [Patrick Reilly](https://twitter.com/preillyme), Office of the CTO at Cisco, Cisco board of member for CNCF
-* [Tim Hockin](https://twitter.com/thockin), Senior Staff SW Engineer / Engineering Manager at Google
+* [Tim Hockin](https://twitter.com/thockin), Senior Staff SW Engineer / Engineering Manager at Google 
+* abcdefghil
